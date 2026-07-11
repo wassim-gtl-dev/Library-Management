@@ -1,0 +1,356 @@
+﻿.venv\Scripts\python.exe : QFontDatabase: Cannot find font directory 
+C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+At line:1 char:84
++ ... A_PLATFORM='offscreen'; .venv\Scripts\python.exe main.py 2>&1 | Out-F ...
++                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (QFontDatabase: .../Qt5/lib/fonts. 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
+QFontDatabase: Cannot find font directory C:/Users/ANIS 
+INFO/Desktop/library_manager/.venv/Lib/site-packages/PyQt5/Qt5/lib/fonts.
+Note that Qt no longer ships fonts. Deploy some (from 
+https://dejavu-fonts.github.io/ for example) or switch to fontconfig.
