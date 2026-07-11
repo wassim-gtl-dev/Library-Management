@@ -3,7 +3,31 @@
 A modern, bilingual (English / Arabic) desktop library management system built with **Python** and **PyQt5**.
 
 
+---
 
+## 📸 Screenshots
+
+### Login & Authentication
+<p align="center">
+  <img src="login.png" alt="Login Screen" width="700">
+</p>
+
+### Interactive Dashboard
+<p align="center">
+  <img src="dashboard.png" alt="Dashboard" width="700">
+</p>
+
+### Books & Catalog Management
+<p align="center">
+  <img src="books.png" alt="Books Management" width="700">
+</p>
+
+### System Reports
+<p align="center">
+  <img src="report.png" alt="Reports" width="700">
+</p>
+
+---
 ---
 
 ## ✨ Features
