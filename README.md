@@ -9,22 +9,22 @@ A modern, bilingual (English / Arabic) desktop library management system built w
 
 ### Login & Authentication
 <p align="center">
-  <img src="login.png" alt="Login Screen" width="700">
+  <img src="login.PNG" alt="Login Screen" width="700">
 </p>
 
 ### Interactive Dashboard
 <p align="center">
-  <img src="dashboard.png" alt="Dashboard" width="700">
+  <img src="dashboard.PNG" alt="Dashboard" width="700">
 </p>
 
 ### Books & Catalog Management
 <p align="center">
-  <img src="books.png" alt="Books Management" width="700">
+  <img src="books.PNG" alt="Books Management" width="700">
 </p>
 
 ### System Reports
 <p align="center">
-  <img src="report.png" alt="Reports" width="700">
+  <img src="report.PNG" alt="Reports" width="700">
 </p>
 
 ---
