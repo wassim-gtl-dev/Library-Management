@@ -80,6 +80,8 @@ Everything text-facing goes through `lang.tr("some_key")`, backed by the `TRANSL
 - The dashboard charts and PDF report tables render left-to-right regardless of the active language, which is standard practice for data visualizations even inside right-to-left interfaces.
 - The bundled data is a local SQLite file, so **Backup Database** (Settings \u2192 Data Management) is the recommended way to keep a copy before major changes.
 
+- ![Dashboard Screenshot](dashboard.png)
+
 ---
 
 Built with \u2764\uFE0F using Python & PyQt5.
