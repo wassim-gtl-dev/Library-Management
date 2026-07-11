@@ -6,8 +6,15 @@ A modern, bilingual (English / Arabic) desktop library management system built w
 
 ---
 
+## ✨ Features
 
-
+- **🌐 Native Bilingual Architecture:** Complete, on-the-fly language switching between English and Arabic without application restarts.
+- **🌓 Adaptive Theme Engine:** Centralized dark and light stylesheets that dynamically transition custom UI components and layouts.
+- **📊 Interactive Dashboard:** Provides real-time metrics summarizing active books, registered members, critical stock indicators, and rental histories.
+- **🔒 Role-Based Authentication:** Clean secure session control to enforce strict administrative access vectors over structural library modifications.
+- **📚 Advanced Cataloging & Memberships:** Granular components for checking, updating, archiving, or auditing items and client profiles.
+- **🔄 Smart Transaction Handlers:** Automated calculation thresholds handling due dates, overdues, and fine tracking algorithms dynamically.
+- **⚙️ Dynamic Parameter Tuning:** Direct runtime configuration adjustments for active global values (e.g. library identification names, customized fine metrics, default borrow limits).
 
 ---
 
@@ -16,8 +23,14 @@ A modern, bilingual (English / Arabic) desktop library management system built w
 
 
 
-The database file (`librasys.db`) and its seed data (a few sample books, members and loans) are created automatically next to `main.py` the first time you run the app.
-
+├── core/               # App backend (Database connections, Localized translations, Stylesheets)
+├── dialogs/            # Contextual prompt elements (Authentication gates, explicit confirmations)
+├── pages/              # Primary display widgets (Dashboard matrices, Catalog controls, System parameters)
+├── widgets/            # Tailored responsive elements (Unified sidebar navigation, interactive headers)
+├── librasys.db         # Pre-configured structured local SQLite 3 workspace file
+├── main.py             # Global execution orchestrator and runtime initializer
+├── requirements.txt    # Frozen dependency version maps
+└── README.md           # Deployment manual and architecture summary
 ---
 
 ##  Getting started
