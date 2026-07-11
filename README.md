@@ -23,14 +23,14 @@ A modern, bilingual (English / Arabic) desktop library management system built w
 
 
 
-├── core/               # App backend (Database connections, Localized translations, Stylesheets)
-├── dialogs/            # Contextual prompt elements (Authentication gates, explicit confirmations)
-├── pages/              # Primary display widgets (Dashboard matrices, Catalog controls, System parameters)
-├── widgets/            # Tailored responsive elements (Unified sidebar navigation, interactive headers)
-├── librasys.db         # Pre-configured structured local SQLite 3 workspace file
-├── main.py             # Global execution orchestrator and runtime initializer
-├── requirements.txt    # Frozen dependency version maps
-└── README.md           # Deployment manual and architecture summary
+├── core/               
+├── dialogs/            
+├── pages/              
+├── widgets/            
+├── librasys.db         
+├── main.py             
+├── requirements.txt     
+└── README.md           
 ---
 
 ##  Getting started
